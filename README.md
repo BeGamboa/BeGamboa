@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bettina.</h1>
 <h3 align="center">A Full-Stack Web Developer, Biomedical Engineer and Quality Engineering Master's student from Argentina.</h3>
-
+<img src="https://medical-technology.nridigital.com/medical-technology/medical_technology_sep21/regulators_ai_data_healthcare/816472/Background_mobile.svg" alt="banner"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=begamboa" alt="begamboa" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
